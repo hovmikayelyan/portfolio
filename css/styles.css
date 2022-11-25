@@ -239,6 +239,10 @@ a:hover {
   color: #dda600;
 }
 
+.skill_icons:hover {
+  color: #ffc107 !important;
+}
+
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
   color: inherit;
   text-decoration: none;
