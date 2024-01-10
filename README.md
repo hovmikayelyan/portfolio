@@ -2,7 +2,7 @@
 
 Simple website on HTML, CSS and JavaScript as a resume. :shipit:
 ##
-<a href="https://mikayelyan.uk"> <img src="https://github.com/hovmikayelyan/portfolio/assets/89905543/d93636c9-75ae-4854-80a1-53ceba0f6260" > </a>
+<a href="https://mikayelyan.uk"> <img src="https://github.com/hovmikayelyan/portfolio/assets/89905543/83e6da99-ced9-4c0a-9271-d3cb7c9c322c" > </a>
 
 You'll find out more about me, including my:
 - Experience
