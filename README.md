@@ -13,6 +13,6 @@ You'll find out more about me, including my:
 - Awards
 
 All information is up-to date. 
-1/10/2024
+30/05/2024
 
 ## Thank you!
