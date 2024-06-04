@@ -248,6 +248,11 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+.youtube-iframe {
+  width: 280px;
+  height: 160px;
+}
+
 pre,
 code,
 kbd,
@@ -649,6 +654,10 @@ progress {
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
     max-width: 720px;
+  }
+  .youtube-iframe {
+    width: 560px;
+    height: 315px;
   }
 }
 @media (min-width: 992px) {
