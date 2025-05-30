@@ -2,7 +2,7 @@
 
 Simple website on HTML, CSS and JavaScript as a personal card and portfolio. :shipit: -> <a href="https://mikayelyan.uk"> VISIT </a>
 ##
-<a href="https://mikayelyan.uk"> <img src="https://github.com/hovmikayelyan/portfolio/assets/89905543/d15c7ac6-774f-4d37-ba08-5bbd0e521496" > </a>
+<a href="https://mikayelyan.uk"> <img src="https://github.com/user-attachments/assets/9b695190-b441-4f3e-8488-1048a71e83a0" > </a>
 
 You'll find out more about me by visiting my portfolio, including my:
 - Experience
@@ -13,6 +13,6 @@ You'll find out more about me by visiting my portfolio, including my:
 - Awards
 
 All information is up-to date. 
-04/06/2024
+30/05/2025
 
 ## Thank you!
