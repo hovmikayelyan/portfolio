@@ -2,7 +2,7 @@
 
 Simple website on HTML, CSS and JavaScript as a personal card and portfolio. :shipit: -> <a href="https://mikayelyan.uk"> VISIT </a>
 ##
-<a href="https://mikayelyan.uk"> <img src="https://github.com/user-attachments/assets/2af9c47f-123e-4f13-87c7-3acc85be9640" > </a>
+<a href="https://mikayelyan.uk"> <img src="https://github.com/user-attachments/assets/c7638ebd-5e88-44f6-9a4a-a073d3d4965d" > </a>
 
 You'll find out more about me by visiting my portfolio, including my:
 - Experience
